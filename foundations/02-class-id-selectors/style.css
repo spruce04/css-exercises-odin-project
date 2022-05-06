@@ -1,0 +1,20 @@
+#bigBlue {
+    font-size: 36px;
+    color: blue;
+}
+
+#midGreen {
+    font-size: 24px;
+    font-weight: 800;
+    background-color: rgb(127, 235, 127);
+}
+
+p {
+    font-size: 20px;
+    background-color: rgb(241, 138, 138);
+    font-family: 'Verdana','Dejavu Sans','sans-serif';
+}
+
+.bigRed {
+    font-size: 24px;
+}
